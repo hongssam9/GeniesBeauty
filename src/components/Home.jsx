@@ -1,12 +1,34 @@
 import React from "react";
-
+import saga1 from "./images/saga1.png";
+import "./Home.css";
+import { Carousel } from "react-bootstrap";
 const Home = () => {
   return (
     <div>
-      <img
-        src="https://media.voguebusiness.com/photos/602fe22696f8d59e8b8e1773/2:3/w_2560%2Cc_limit/new-fashion-shows-voguebus-bibhu-mohapatra-feb-21-story.jpg"
-        alt="homepage"
-      />
+      {/* <div
+        id = "home-carousel"
+        class="carousel slide"
+        data-bs-ride="carousel"
+      >
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img
+              src="https://cdn.shopify.com/s/files/1/1478/6606/products/saga_2_grande.jpg?v=1517853168"
+              class="carousel-img"
+              alt="homepage"
+            />
+          </div>
+          <div class="carousel-item ">
+            <img src={saga1} class="carousel-img" id = "saga1" alt="homepage" />
+          </div>
+        </div>
+      </div> */}
+ <img
+              src="https://cdn.shopify.com/s/files/1/1478/6606/products/saga_2_grande.jpg?v=1517853168"
+              class="carousel-img"
+              alt="homepage"
+            />
+
     </div>
   );
 };

@@ -1,0 +1,13 @@
+.carousel-img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+   margin-top: 5rem;
+   height: 20rem;
+   width: auto; 
+}
+
+#saga1{
+    height: 20rem;
+    width: auto;
+}
