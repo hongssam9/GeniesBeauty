@@ -1,0 +1,70 @@
+pages to make:
+    :Hair
+        Human Hair
+            - Weave
+            - Wigs 
+           
+        Synthetic Hair
+            -Wigs
+            -Weave
+            - Braid
+            - Crochet
+    :Jewelry
+        -Belly Rings
+        -Nose Rings (no pics, just say displayed at front)
+        -Earrings
+        -Grillz
+        -Rings (no pics, just say displayed at front)
+        -Necklaces
+        -Anklets
+        -Sunglasses
+    :Chemicals
+        - Edge Control
+        - Detangler
+        - Oils
+        - Hair Glue
+        - Barber Essentials
+        - Colored Hair Spray
+        - Hair dye
+        - Soap
+        - Alcohol
+        - Hair Color Wax
+        - Fade Cream
+        - Body Lotion
+        - Hold
+        - Conditioner
+        - Shampoo
+        - Etc 
+        - Curl Cream
+        - Facial
+        -  
+    :Electronics
+        - Hair Dryer
+        - Pressing Comb
+        - Curling iron
+        - Trimmer as well as replacement blades 
+    :Makeup
+        - Lip stick
+        - lip gloss
+        - foundation
+        - nail products
+            nail extensions
+            nail polish
+        - Eye Lashes 
+    :Miscellaneous (Just mention in that we have these and put them all in a mapping pic gallery)
+        - Face Masks
+        - Makeup Sponges
+        - Wig Clips
+        - Eyebrow shaper
+        - crochet hooks
+        - Scissors, Crochet Needle, Toenail clipper, hair brush
+        - Sponges
+        - Beads
+        - Rubber bands
+        - Clothes
+        - Hair tie 
+        - wig cap 
+        - Durags
+        - purses
+        - Shoes
+        -  
