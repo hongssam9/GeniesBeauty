@@ -1,5 +1,5 @@
 import React from "react";
-import saga1 from "./images/saga1.png";
+import poster1 from "./images/poster1.png";
 import "./Home.css";
 import { Carousel } from "react-bootstrap";
 const Home = () => {

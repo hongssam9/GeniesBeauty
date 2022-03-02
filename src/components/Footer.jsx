@@ -12,7 +12,7 @@ const Footer = () => {
             <Stack direction="horizontal" gap={5} >
               <div className="acp"><Link to="/About" style={{textDecoration:"none"}}>About</Link></div>
               <div className="acp"><Link to ="/Contact" style={{textDecoration:"none"}}>Contact</Link></div>
-              <div className="acp"><Link to ="/Policy" style={{textDecoration:"none"}}>Policy</Link></div>
+              <div className="acp"><Link to ="/Policy" style={{textDecoration:"none"}}>Store Policy</Link></div>
             </Stack>
           </div>
           <div className="footer-stuff"  id="copyright">
